@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jr
-- 👀 I’m interested in learning to expand my skill sets.
+- 👋 Hi, I’m @JR
+- 👀 I’m interested in learning to expand my skill set.
 - 🌱 I’m currently learning more about life every day.
 - 💞️ I’m looking to collaborate on real-world projects and applications.
 - 📫 How to reach me: contact me on GITHUB first.
