@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JR
 - 👀 I’m interested in learning to expand my skill set.
 - 🌱 I’m currently learning more about life every day.
 - 💞️ I’m looking to collaborate on real-world projects and applications.
@@ -6,6 +5,6 @@
 - ⚡ Fun fact: Cherish the air you breathe. You never know when you are going to take your last breath
 
 <!---
-jrshipps/jrshipps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jrshipps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
